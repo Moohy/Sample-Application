@@ -22,3 +22,5 @@ heroku
 /yarn-error.log
 
 .byebug_history
+
+.idea/workspace.xml
